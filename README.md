@@ -55,6 +55,26 @@ This project directly implements the hackathon’s vision:
 
 ---
 
+### 🧠 Zero-Prompt in Action
+
+User does NOT write:
+❌ "Give me a study plan for JEE"
+
+Instead, the app asks:
+✔ What is your goal?
+✔ How many hours do you study?
+✔ Upload your test data
+
+And automatically generates:
+✔ Analysis
+✔ Strategy
+✔ Daily plan
+✔ Immediate next action
+
+👉 No prompts. No confusion. Just results.
+
+---
+
 ## ✨ Key Features
 
 ### 🎯 Zero-Prompt Guided Experience
