@@ -5,7 +5,7 @@ st.set_page_config(page_title="AI Study Coach", layout="centered", initial_sideb
 
 # --- HEADER SECTION ---
 st.title("🎓 AI Study Coach")
-st.markdown("### Your Personal AI Mentor for JEE Success")
+st.markdown("### Your Personal AI Mentor for Success")
 st.info("💡 This AI doesn't wait for prompts — it understands you.")
 st.divider()
 
